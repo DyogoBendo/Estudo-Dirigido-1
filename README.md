@@ -1,2 +1,2 @@
 # Estudo-Dirigido-1
-Tarefa de Algoritmos, versão Linux
+Tarefa de Algoritmos e Linguagens da Programação, versão Linux
