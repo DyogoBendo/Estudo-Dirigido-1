@@ -5,6 +5,8 @@
 		#include <stdlib.h>
 		#include <locale.h>
 
+		//TESTE!
+
 		using namespace std;
 
 		vector <int> inseridos = {};
